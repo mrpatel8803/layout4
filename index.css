@@ -1,0 +1,116 @@
+.header_image img{
+    width: 400px;
+    height: 200px;
+}
+
+.line{
+    width: 120px;
+    height: 10px;
+    background-color: white;
+    
+}
+
+.containt_f{
+    color: white;
+    padding-left: 10%;
+    font-size: 30px;
+    
+}
+.main_part{
+    
+}
+/* .main_part{
+    background-image:url("C:\Users\hp\Desktop\layout4\assets\image\main_image_2.jpeg")
+} */
+
+.back_image{
+    background-image: url("./image/main_image_2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+}
+
+ .asd{
+    background-color: rgb(0, 153, 255,0.5);
+    padding-top: 10%;
+    padding-bottom: 10%;
+} 
+ 
+ /* #pink{
+    background-color: hotpink;
+    padding: 10px;
+}    */
+
+
+
+.container_text_1{
+    font-size: 150px;
+    font-weight: bold;
+    padding-left: 10%;
+    color: rgba(240, 248, 255, 0.733);
+}
+
+.container_text_2{
+    font-size: 70px;
+    color: white;
+    padding-left: 10%;
+    padding-top: -9%;
+    margin-top: -11.5%;
+}
+
+.container_text_3{
+    font-size: 70px;
+    color: white;
+    padding-left: 10%;
+}
+
+.header_right{
+    font-size: 20px;
+}
+
+.header_right_2{
+    color: grey;
+}
+
+.line_2{
+    width: 6px;
+    height: 85px;
+    background-color:  rgb(254, 68, 99);
+    
+}
+
+.left_text{
+    padding-top: 10%;
+    padding-left: 22%;
+}
+
+.left_text_2{
+    padding-top: 5%;
+}
+
+.content_center{
+    padding-left: 5%;
+    padding-top: 3%;
+}   
+
+.conter_center{
+    margin-top: 6%;
+    
+}
+
+.conter_center_2{
+    margin-top: 7%;
+    border-left: 1px solid black ;
+}
+
+.conter_center_3{
+    margin-top: 7%;
+    border-left: 1px solid black;
+}
+
+.hr{
+    width: 20px;
+
+}
+
